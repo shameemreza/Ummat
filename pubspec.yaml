@@ -77,15 +77,6 @@ dependencies:
   package_info: ^0.4.0+13
   admob_flutter: ^1.0.1
   agora_rtc_engine: ^3.2.1
-  firebase_dynamic_links:
-    git:
-      url: https://github.com/mrmilu/flutterfire
-      path: packages/firebase_dynamic_links
-      ref: firebase_dynamic_links
-
-
-
-
 
 dev_dependencies:
   flutter_test:
